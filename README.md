@@ -7,10 +7,12 @@ React, GraphQL, and cybersecurity are my current love interests. ⚛💚
 My primary hobby is weightlifting and I plan on doing **competitive bodybuilding** once the pandemic ends. 💪😎
 
 
-## Cool Stats
+<!-- ## Cool Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HilaryDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats "Hilary's Most Used Languages")
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=HilaryDev&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats "Hilary's Github Stats")
+ -->
 
 ## Random memes
 
