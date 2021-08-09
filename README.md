@@ -5,6 +5,9 @@ My name is Hilary - I'm a **software developer** that has been exploring the dep
 React, GraphQL, and PWAs are my current love interests. ⚛💛
 
 - 💬 **Ask me about** React and GraphQL!
+- 🔭 **How to reach me:**
+  - 🐦 **Twitter:** [@HilaryCPerdomo](https://twitter.com/HilaryCPerdomo) (_DMs open_)
+  - 📫 **Email:** `public DOT hilary AT gmail DOT com`
 - ⚡ **Fun fact:** I'm preparing to do competitive bodybuilding once the pandemic ends. 💪😎
 - 😄 **Pronouns:** she/her
 
