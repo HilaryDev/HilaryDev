@@ -4,7 +4,7 @@ My name is Hilary - I'm a **software developer** that has been exploring the dep
 
 React, GraphQL, and PWAs are my current love interests. ⚛💛
 
-My primary hobby is weightlifting and I plan on doing **competitive bodybuilding** once the pandemic ends. 💪😎
+- ⚡ **Fun fact:** I'm preparing to do competitive bodybuilding once the pandemic ends. 💪😎
 
 ## Cool Stats
 
