@@ -14,6 +14,6 @@ My primary hobby is weightlifting and I plan on doing **competitive bodybuilding
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HilaryDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats "Hilary's Most Used Languages")
  -->
 
-## Random memes
+## Random Memes
 
 ![](https://memes.stormix.co/send/memes "Random meme")
