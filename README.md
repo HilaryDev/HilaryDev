@@ -4,6 +4,7 @@ My name is Hilary - I'm a **software developer** that has been exploring the dep
 
 React, GraphQL, and PWAs are my current love interests. ⚛💛
 
+- 💬 **Ask me about** React and GraphQL!
 - ⚡ **Fun fact:** I'm preparing to do competitive bodybuilding once the pandemic ends. 💪😎
 - 😄 **Pronouns:** she/her
 
