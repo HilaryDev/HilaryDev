@@ -19,6 +19,5 @@ React, GraphQL, and PWAs are my current love interests. ⚛💛
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HilaryDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats "Hilary's Most Used Languages")
  -->
 
-## Random Memes
-
-![Random meme](https://memes.stormix.co/send/memes "Random meme")
+<!-- ## Random Memes -->
+<!-- ![Random meme](https://memes.stormix.co/send/memes "Random meme") -->
