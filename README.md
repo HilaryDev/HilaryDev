@@ -1,4 +1,4 @@
-# ✨❤️ Hi there! ❤️✨
+# About Me
 
 My name is Hilary - I'm a **software developer** that has been exploring the depths of **JavaScript fullstack development** for over 3 years now (using mostly **React**, **TypeScript**, **Node**, **GraphQL** and **PostgreSQL**), and coded in Python and C prior to that.
 
