@@ -1,19 +1,32 @@
-# About Me
+# Hi, I'm Hilary!
 
-My name is Hilary - I'm a **software developer** that has been exploring the depths of **JavaScript fullstack development** for over 3 years now (using mostly **React**, **TypeScript**, **Node**, **GraphQL** and **PostgreSQL**), and coded in Python and C prior to that.
+I'm a software developer and **UX enthusiast** that has been exploring
+fullstack development with JavaScript for over 3 years now.
 
-React, GraphQL, and PWAs are my current love interests. ⚛💛
+- 📫 **How to contact me:**
+  - **Twitter:** [@HilaryCPerdomo](https://twitter.com/HilaryCPerdomo)
+    - Feel free to message me; I don't tweet but I login frequently ❤️
+  - **Email:** `public.<my first name>@gmail.com`.
+      - (Replace `<my first name>` with "hilary")
 
-- 💬 **Ask me about** React and GraphQL!
-- 🔭 **How to reach me:**
-  - 🐦 **Twitter:** [@HilaryCPerdomo](https://twitter.com/HilaryCPerdomo) (_DMs open_)
-  - 📫 **Email:** `public DOT hilary AT gmail DOT com`
-- ⚡ **Fun fact:** I'm preparing to do competitive bodybuilding once the pandemic ends. 💪😎
-- 😄 **Pronouns:** she/her
+- 💡 **Working on:** Developing fullstack websites using mostly:
+  - **[TypeScript][]**
+  - **[React][]** ([Next.js][next], [Create-React-App])
+  - **GraphQL**
 
-## Cool Stats
+- 📖 **Reading:** _"Test-Driven Development By Example"_ by Kent Beck.
+  - **Last two read:**
+    1. _"The Do-It-Yourself Guide to Finding and Fixing Usability Problems"_ by Steve
+    Krug.
+    2. _"Responsive Web Design"_ by Ethan Marcotte (A Book Apart).
 
-[![Hilary's Github Stats](https://github-readme-stats.vercel.app/api?username=HilaryDev&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats "Hilary's Github Stats")
+- ⚡ **Fun fact:** I've won two heavy-weight bodybuilding competitions and I'm preparing
+  to win more once the pandemic ends. :)
+
+- 💯 I'm always learning that which I cannot do, in order that
+  I may learn how to do it.
+
+- 😄 **Pronouns:** she/her.
 
 ## Things I Code With
 
@@ -32,6 +45,11 @@ React, GraphQL, and PWAs are my current love interests. ⚛💛
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
 </p>
+
+[TypeScript]: https://www.typescriptlang.org/
+[next]: https://nextjs.org/
+[React]: https://reactjs.org/
+[Create-React-App]: https://create-react-app.dev/
 
 <!-- ... -->
 <!-- - 👀 **Looking for help with:** Usability testing a website (contact me if you'd like to -->
