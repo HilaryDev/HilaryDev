@@ -4,8 +4,6 @@ I'm a software developer and **UX enthusiast** that has been exploring
 fullstack development with JavaScript for several years now.
 
 - 📫 **How to contact me:**
-  - **Twitter:** [@HilaryCPerdomo](https://twitter.com/HilaryCPerdomo)
-    - Feel free to message me; I don't tweet but I login frequently ❤️
   - **Email:** `public.<my first name>@gmail.com`.
       - (Replace `<my first name>` with "hilary")
 
@@ -64,3 +62,6 @@ fullstack development with JavaScript for several years now.
 
 <!-- ## Random Memes -->
 <!-- ![Random meme](https://memes.stormix.co/send/memes "Random meme") -->
+
+<!-- - **Twitter:** [@HilaryCPerdomo](https://twitter.com/HilaryCPerdomo) -->
+<!-- - Feel free to message me; I don't tweet but I login frequently ❤️ -->
