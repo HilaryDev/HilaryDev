@@ -1,7 +1,7 @@
 # Hi, I'm Hilary!
 
 I'm a software developer and **UX enthusiast** that has been exploring
-fullstack development with JavaScript for over 3 years now.
+fullstack development with JavaScript for several years now.
 
 - 📫 **How to contact me:**
   - **Twitter:** [@HilaryCPerdomo](https://twitter.com/HilaryCPerdomo)
