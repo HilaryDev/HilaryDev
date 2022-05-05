@@ -40,9 +40,11 @@ I'm a software developer, passionate about creating beautiful user interfaces âœ
 </p>
 
 [TypeScript]: https://www.typescriptlang.org/
+[GraphQL]: https://graphql.org/
 [next]: https://nextjs.org/
 [React]: https://reactjs.org/
 [Create-React-App]: https://create-react-app.dev/
+[Node]: https://nodejs.org
 
 <!-- ... -->
 <!-- - ðŸ‘€ **Looking for help with:** Usability testing a website (contact me if you'd like to -->
