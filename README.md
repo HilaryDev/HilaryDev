@@ -5,8 +5,7 @@ I'm a software developer, passionate about creating beautiful user interfaces �
 - 📫 **Email:** `public.<my first name>@gmail.com`.
   - (Replace `<my first name>` with "hilary")
 
-- 💡 **Working on:** Developing fullstack websites using mostly:
-  - **[TypeScript][]**
+- 💡 **Working on:** Developing websites using mostly:
   - **[React][]** ([Next.js][next], [Create-React-App])
   - **GraphQL**
 
