@@ -61,5 +61,3 @@ I'm a software developer, passionate about creating beautiful user interfaces �
 <!-- ## Random Memes -->
 <!-- ![Random meme](https://memes.stormix.co/send/memes "Random meme") -->
 
-<!-- - **Twitter:** [@HilaryCPerdomo](https://twitter.com/HilaryCPerdomo) -->
-<!-- - Feel free to message me; I don't tweet but I login frequently ❤️ -->
