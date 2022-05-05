@@ -13,9 +13,9 @@ I'm a software developer, passionate about creating beautiful user interfaces �
 
 - 📖 **Reading:** _"Test-Driven Development By Example"_ by Kent Beck.
   - **Last two read:**
-    1. _"The Do-It-Yourself Guide to Finding and Fixing Usability Problems"_ by Steve
-    Krug.
-    2. _"Responsive Web Design"_ by Ethan Marcotte (A Book Apart).
+    1. _"Guide to Finding and Fixing Usability Problems"_ by Steve
+    Krug
+    2. _"Responsive Web Design"_ by Ethan Marcotte (A Book Apart)
 
 - ⚡ **Fun fact:** I've won two bodybuilding competitions and I'm preparing
   to win more once the pandemic ends. :)
