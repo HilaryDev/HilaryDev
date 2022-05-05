@@ -1,7 +1,6 @@
 # Hi, I'm Hilary!
 
-I'm a software developer and **UX enthusiast** that has been exploring
-fullstack development with JavaScript for several years now.
+I'm a software developer, passionate about creating beautiful user interfaces ✨
 
 - 📫 **How to contact me:**
   - **Email:** `public.<my first name>@gmail.com`.
