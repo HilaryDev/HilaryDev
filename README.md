@@ -46,17 +46,6 @@ I'm a software developer, passionate about creating beautiful user interfaces �
 [Create-React-App]: https://create-react-app.dev/
 [Node]: https://nodejs.org
 
-<!-- ... -->
-<!-- - 👀 **Looking for help with:** Usability testing a website (contact me if you'd like to -->
-  <!-- help me! ❤️) -->
 
+<!-- <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> -->
 <!-- <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> -->
-<!-- ## Cool Stats -->
-<!-- [![Hilary's Github Stats](https://github-readme-stats.vercel.app/api?username=HilaryDev&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats "Hilary's Github Stats") -->
-<!--
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HilaryDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats "Hilary's Most Used Languages")
- -->
-
-<!-- ## Random Memes -->
-<!-- ![Random meme](https://memes.stormix.co/send/memes "Random meme") -->
-
