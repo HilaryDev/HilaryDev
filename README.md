@@ -7,7 +7,9 @@ I'm a software developer, passionate about creating beautiful user interfaces �
 
 - 💡 **Working on:** Developing websites using mostly:
   - **[React][]** ([Next.js][next], [Create-React-App])
-  - **GraphQL**
+  - **[TypeScript][]**, **JavaScript**
+  - **[GraphQL][]**
+  - **[Node][]**
 
 - 📖 **Reading:** _"Test-Driven Development By Example"_ by Kent Beck.
   - **Last two read:**
