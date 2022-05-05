@@ -17,7 +17,7 @@ I'm a software developer, passionate about creating beautiful user interfaces �
     Krug.
     2. _"Responsive Web Design"_ by Ethan Marcotte (A Book Apart).
 
-- ⚡ **Fun fact:** I've won two heavy-weight bodybuilding competitions and I'm preparing
+- ⚡ **Fun fact:** I've won two bodybuilding competitions and I'm preparing
   to win more once the pandemic ends. :)
 
 - 💯 I'm always learning that which I cannot do, in order that
