@@ -2,9 +2,8 @@
 
 I'm a software developer, passionate about creating beautiful user interfaces ✨
 
-- 📫 **How to contact me:**
-  - **Email:** `public.<my first name>@gmail.com`.
-      - (Replace `<my first name>` with "hilary")
+- 📫 **Email:** `public.<my first name>@gmail.com`.
+  - (Replace `<my first name>` with "hilary")
 
 - 💡 **Working on:** Developing fullstack websites using mostly:
   - **[TypeScript][]**
