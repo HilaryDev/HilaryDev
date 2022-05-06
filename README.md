@@ -1,6 +1,6 @@
 # Hi, I'm Hilary!
 
-I'm a software developer, passionate about creating beautiful user interfaces ✨
+I'm a front-end engineer, passionate about creating beautiful user interfaces ✨
 
 - 📫 **Email:** `public.<my first name>@gmail.com`.
   - (Replace `<my first name>` with "hilary")
